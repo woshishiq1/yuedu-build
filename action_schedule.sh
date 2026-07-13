@@ -10,7 +10,7 @@ APP_WORKSPACE="/opt/$APP_NAME"
 APP_UPLOAD="$APP_WORKSPACE/app/build/outputs/apk/app/release"
 APP_LAUNCH_NAME="阅读"
 
-GITHUB_API_LATEST="https://api.github.com/repos/gedoor/legado/releases/latest"
+GITHUB_API_LATEST="https://api.github.com/repos/huajideshutiao/legado/releases/latest"
 
 set_env APP_NAME        $APP_NAME
 set_env APP_GIT_URL     $APP_GIT_URL
